@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkeyetraining=self.webpackChunkeyetraining||[]).push([[778],{778:function(e,s,t){e.exports=t.p+"static/media/thumbsup.e932fc298efb340ca0c8.svg"}}]);
