@@ -1,30 +1,32 @@
 {
   "files": {
-    "main.css": "/eyetraining/static/css/main.ed9c2c72.css",
-    "main.js": "/eyetraining/static/js/main.6ef0a9a4.js",
-    "static/js/253.e321d327.chunk.js": "/eyetraining/static/js/253.e321d327.chunk.js",
+    "main.css": "/eyetraining/static/css/main.a85a6eeb.css",
+    "main.js": "/eyetraining/static/js/main.7e63c968.js",
+    "static/js/931.f0e563a4.chunk.js": "/eyetraining/static/js/931.f0e563a4.chunk.js",
     "static/js/762.bee6d296.chunk.js": "/eyetraining/static/js/762.bee6d296.chunk.js",
-    "static/js/679.f07e4ff5.chunk.js": "/eyetraining/static/js/679.f07e4ff5.chunk.js",
+    "static/js/679.ee57ac1e.chunk.js": "/eyetraining/static/js/679.ee57ac1e.chunk.js",
     "static/js/816.59e8683a.chunk.js": "/eyetraining/static/js/816.59e8683a.chunk.js",
     "static/js/649.5bd06d00.chunk.js": "/eyetraining/static/js/649.5bd06d00.chunk.js",
-    "static/js/498.018e572e.chunk.js": "/eyetraining/static/js/498.018e572e.chunk.js",
+    "static/js/498.e390c92b.chunk.js": "/eyetraining/static/js/498.e390c92b.chunk.js",
+    "static/js/802.df2caf8d.chunk.js": "/eyetraining/static/js/802.df2caf8d.chunk.js",
     "static/js/778.8f6b40f3.chunk.js": "/eyetraining/static/js/778.8f6b40f3.chunk.js",
     "static/js/787.6f16ed8e.chunk.js": "/eyetraining/static/js/787.6f16ed8e.chunk.js",
-    "static/media/eye.png": "/eyetraining/static/media/eye.16100e9fc5aee7d9100e.png",
     "static/media/eyeclosed.png": "/eyetraining/static/media/eyeclosed.6ec02b13cdefe5e181cb.png",
     "static/media/fingerMMM.png": "/eyetraining/static/media/fingerMMM.2e6bf8852b40c93977ed.png",
     "static/media/lightbulbon.svg": "/eyetraining/static/media/lightbulbon.2ec8d22da578067fa666.svg",
     "static/media/thumbsup.svg": "/eyetraining/static/media/thumbsup.e932fc298efb340ca0c8.svg",
     "static/media/logo.svg": "/eyetraining/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "static/media/pencil.svg": "/eyetraining/static/media/pencil.c32dda9fc53011cab912.svg",
-    "static/media/finger.svg": "/eyetraining/static/media/finger.4c0bed3d9ae30f014d1b.svg",
+    "static/media/pencil.svg": "/eyetraining/static/media/pencil.70e5f615f3ada7138fed.svg",
+    "static/media/eye.svg": "/eyetraining/static/media/eye.a47106fe7f2bf704b834.svg",
+    "static/media/finger.svg": "/eyetraining/static/media/finger.bd1d3e33224e7a6a26f4.svg",
+    "static/media/seo-social-web-network-internet_232_icon-icons.com_61542 (1).svg": "/eyetraining/static/media/seo-social-web-network-internet_232_icon-icons.com_61542 (1).207d2801d86e44a4eb51.svg",
     "index.html": "/eyetraining/index.html",
-    "main.ed9c2c72.css.map": "/eyetraining/static/css/main.ed9c2c72.css.map",
-    "main.6ef0a9a4.js.map": "/eyetraining/static/js/main.6ef0a9a4.js.map",
+    "main.a85a6eeb.css.map": "/eyetraining/static/css/main.a85a6eeb.css.map",
+    "main.7e63c968.js.map": "/eyetraining/static/js/main.7e63c968.js.map",
     "787.6f16ed8e.chunk.js.map": "/eyetraining/static/js/787.6f16ed8e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ed9c2c72.css",
-    "static/js/main.6ef0a9a4.js"
+    "static/css/main.a85a6eeb.css",
+    "static/js/main.7e63c968.js"
   ]
 }

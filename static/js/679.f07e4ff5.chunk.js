@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkeyetraining=self.webpackChunkeyetraining||[]).push([[679],{679:function(e,i,n){e.exports=n.p+"static/media/finger.4c0bed3d9ae30f014d1b.svg"}}]);
