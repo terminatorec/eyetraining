@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/eyetraining/static/css/main.a85a6eeb.css",
-    "main.js": "/eyetraining/static/js/main.7e63c968.js",
+    "main.css": "/eyetraining/static/css/main.2b1ec50b.css",
+    "main.js": "/eyetraining/static/js/main.47315bb5.js",
     "static/js/931.f0e563a4.chunk.js": "/eyetraining/static/js/931.f0e563a4.chunk.js",
     "static/js/762.bee6d296.chunk.js": "/eyetraining/static/js/762.bee6d296.chunk.js",
     "static/js/679.ee57ac1e.chunk.js": "/eyetraining/static/js/679.ee57ac1e.chunk.js",
@@ -21,12 +21,12 @@
     "static/media/finger.svg": "/eyetraining/static/media/finger.bd1d3e33224e7a6a26f4.svg",
     "static/media/seo-social-web-network-internet_232_icon-icons.com_61542 (1).svg": "/eyetraining/static/media/seo-social-web-network-internet_232_icon-icons.com_61542 (1).207d2801d86e44a4eb51.svg",
     "index.html": "/eyetraining/index.html",
-    "main.a85a6eeb.css.map": "/eyetraining/static/css/main.a85a6eeb.css.map",
-    "main.7e63c968.js.map": "/eyetraining/static/js/main.7e63c968.js.map",
+    "main.2b1ec50b.css.map": "/eyetraining/static/css/main.2b1ec50b.css.map",
+    "main.47315bb5.js.map": "/eyetraining/static/js/main.47315bb5.js.map",
     "787.6f16ed8e.chunk.js.map": "/eyetraining/static/js/787.6f16ed8e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a85a6eeb.css",
-    "static/js/main.7e63c968.js"
+    "static/css/main.2b1ec50b.css",
+    "static/js/main.47315bb5.js"
   ]
 }
